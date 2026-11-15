@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/banner.svg" alt="Python Functions and Lists Assessment banner" width="100%"></p>
 
-<p align="center"><b>Rendered README preview (light and dark mode):</b> <a href="https://claude.ai/artifact/N59wiSk9dwzbFuoxcVM9hV">https://claude.ai/artifact/N59wiSk9dwzbFuoxcVM9hV</a></p>
+<p align="center"><b>Live preview (GitHub Pages, light and dark mode):</b> <a href="https://syedamaheen05.github.io/python-functions-lists-assessment/">https://syedamaheen05.github.io/python-functions-lists-assessment/</a></p>
 
 ## 1. Project Overview
 
@@ -23,12 +23,13 @@ python-functions-lists-assessment/
 │   ├── result_card_flow.svg
 │   ├── class_marks_flow.svg
 │   └── uml_diagram.svg
+├── index.html
 ├── result_card_generator.py
 ├── class_marks_analyzer.py
 └── README.md
 ```
 
-`assets/` only holds the README images. The three files required by the brief are in the repository root.
+`assets/` holds the README images and `index.html` is the rendered README preview used by GitHub Pages. The three files required by the brief are in the repository root.
 
 ## 3. Task 1: Student Result Card Generator
 
