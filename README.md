@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/banner.svg" alt="Python Functions and Lists Assessment banner" width="100%"></p>
 
-<p align="center"><b>Live preview (GitHub Pages, light and dark mode):</b> <a href="https://syedamaheen05.github.io/python-functions-lists-assessment/">https://syedamaheen05.github.io/python-functions-lists-assessment/</a></p>
+<p align="center"><b>Live preview :</b> <a href="https://syedamaheen05.github.io/python-functions-lists-assessment/">Live Demo</a></p>
 
 ## 1. Project Overview
 
