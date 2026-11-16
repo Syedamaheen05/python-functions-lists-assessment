@@ -29,7 +29,7 @@ python-functions-lists-assessment/
 └── README.md
 ```
 
-`assets/` holds the README images and `index.html` is the rendered README preview used by GitHub Pages. The three files required by the brief are in the repository root.
+`assets/` holds the README images and `index.html` is the interactive browser demo of both programs, served by GitHub Pages. The three files required by the brief are in the repository root.
 
 ## 3. Task 1: Student Result Card Generator
 
